@@ -1,163 +1,59 @@
 <div align="center">
 
-# Hi there, I'm Daniel Muchiri 👋
+# Daniel Muchiri
 
-### Full Stack Developer • AI Automation • CRM Systems
+**Full-stack product engineer · Nairobi, Kenya 🇰🇪**
 
-Building software that helps businesses automate operations, manage customers, and grow efficiently.
+I build the software Kenyan businesses actually run on.
+If money moves over M-Pesa and leads arrive on WhatsApp — I've probably shipped it.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-daydroidmuchiri.github.io-1E7A46?style=for-the-badge)](https://daydroidmuchiri.github.io)
-[![Email](https://img.shields.io/badge/Email-daydroidmuchiri%40gmail.com-red?style=for-the-badge)](mailto:daydroidmuchiri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-daydroidmuchiri%40gmail.com-9A6B1F?style=for-the-badge)](mailto:daydroidmuchiri@gmail.com)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## What I do
 
-I'm a full stack developer from Kenya passionate about building software that solves real business problems.
+I take products from first schema to production — e-commerce platforms, CRMs, two-sided marketplaces, and real-money prediction markets. My happy place is somewhere between a Prisma schema and an M-Pesa callback that finally returns `ResultCode: 0`.
 
-Currently, my focus is on:
+**Recent builds:**
 
-- 🚛 Building **Kabata Howo Trucks CRM**
-- 🤖 AI-powered business automation
-- 💬 WhatsApp-integrated customer management systems
-- 🛍 Modern e-commerce platforms
-- ⚡ Clean, scalable Next.js applications
+- 🚛 **Kabata CRM** — full sales pipeline for a SINOTRUK HOWO truck dealership: WhatsApp lead → KES quote → asset-financing docs → sold. The trucks are enormous. The codebase, deliberately, is not.
+- 📈 **Kipimo** — real-money prediction markets priced by a constant-product market maker. Yes, I wrote the AMM math myself. No, I still can't predict anything. (`k = x·y` though.)
+- 🛞 **RoadReady** — on-demand roadside assistance for Nairobi: two Expo apps, an ops dashboard, live dispatch over websockets, OTP auth, and M-Pesa payouts to providers. Built for the day your car gives up on Mombasa Road.
+- 🛍 **KWELI & MELAKI** — production e-commerce with M-Pesa STK Push at checkout. Stripe is in there too, for the occasional customer with a card.
+- 📊 **Masoko** — prediction-market foundation with an operator console, finance closes, and wallet reconciliation. Spreadsheet energy, but make it TypeScript.
 
-I enjoy turning complex business workflows into intuitive software.
+👉 **Live demos of the fun parts** (a working market maker, a full STK Push flow) are on my [portfolio](https://daydroidmuchiri.github.io).
 
----
+## Stack
 
-## 🚀 Current Projects
+**Daily drivers:** TypeScript · Next.js (App Router) · PostgreSQL · Prisma · Node/Express
 
-### 🚛 Kabata Howo Trucks CRM
+**Kenya-market rails:** M-Pesa Daraja (STK Push, B2C) · Africa's Talking SMS · WhatsApp intake · KES money handling that respects the decimal point
 
-A complete CRM built for a truck dealership featuring:
+**Also in the toolbox:** Expo/React Native · Socket.IO · NextAuth/WebAuthn · Anthropic API · Cloudinary · Vercel · Sentry
 
-- Customer management
-- Inventory management
-- Lead tracking
-- Sales pipeline
-- Follow-up reminders
-- WhatsApp automation
-- Analytics dashboard
-- Role-based authentication
+## Facts and mildly useful information
 
----
+- 🗓 Shipping to GitHub since 2018 — the journey from `hello-world` to payment-rail reconciliation is what the kids call character development.
+- 💚 My favorite HTTP response is a Daraja callback with `ResultCode: 0`. My least favorite is the same callback, five minutes late.
+- 🤖 Currently deep in AI agents and WhatsApp Business automation — teaching software to answer "bei gani?" politely and instantly.
+- 📬 Fastest way to reach me: [email](mailto:daydroidmuchiri@gmail.com). Second fastest: open an issue with a good title.
 
-### 🛍 Kenyan Store
-
-A modern e-commerce platform built using Next.js featuring:
-
-- Product catalog
-- Shopping cart
-- Secure checkout
-- Admin dashboard
-- Responsive design
-
----
-
-### 💅 Melaki Nails
-
-Business management platform designed for beauty businesses.
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat-square&logo=visualstudiocode)
-
-### AI
-
-- OpenAI API
-- AI Agents
-- Prompt Engineering
-- Workflow Automation
-
----
-
-## 📚 Currently Learning
-
-- Multi-agent AI systems
-- LangGraph
-- Advanced cloud architecture
-- Production-scale system design
-- WhatsApp Business Platform integrations
-
----
-
-## 📈 GitHub Stats
+## GitHub, in numbers
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daydroidmuchiri&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daydroidmuchiri&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=daydroidmuchiri&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daydroidmuchiri&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=daydroidmuchiri&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daydroidmuchiri&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 💼 What I Like Building
-
-- CRM Systems
-- AI-powered Applications
-- Business Automation
-- Dashboards
-- Inventory Systems
-- SaaS Platforms
-- E-commerce Solutions
-- REST APIs
-- Admin Panels
-
----
-
-## 📫 Reach Me
-
-📧 **daydroidmuchiri@gmail.com**
 
 ---
 
 <div align="center">
 
-> "Great software isn't just about clean code—it's about solving real problems."
+*Great software isn't just clean code — it's a business problem that stopped existing.*
 
 </div>
