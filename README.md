@@ -6,7 +6,7 @@
 
 Building software that helps businesses automate operations, manage customers, and grow efficiently.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-daydroidmuchiri.github.io-1E7A46?style=for-the-badge)](https://daydroidmuchiri.github.io)
 [![Email](https://img.shields.io/badge/Email-daydroidmuchiri%40gmail.com-red?style=for-the-badge)](mailto:daydroidmuchiri@gmail.com)
 </div>
 
